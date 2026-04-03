@@ -1,0 +1,8 @@
+I used the MediaPipe plugin for TouchDesigner, but the file is kinda too big for me to upload to the GitHub folder.
+It exceeds the 100MB limit, so please forgive me for the inconvenience :(
+
+But here is the link to the MediaPipe plugin that I used!
+
+[https://github.com/torinmb/mediapipe-touchdesigner](https://github.com/torinmb/mediapipe-touchdesigner)
+
+Just copy-paste the toxes folder into the file and it should work perfectly fine (the hand tracking)!
