@@ -5,4 +5,5 @@ But here is the link to the MediaPipe plugin that I used!
 
 [https://github.com/torinmb/mediapipe-touchdesigner](https://github.com/torinmb/mediapipe-touchdesigner)
 
-Just copy-paste the toxes folder into the file and it should work perfectly fine (the hand tracking)!
+Just create a new folder and put the toe inside.
+Then copy-paste the toxes folder into the folder and it should work perfectly fine (the hand tracking)!
